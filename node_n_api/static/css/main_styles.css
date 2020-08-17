@@ -1,0 +1,21 @@
+body {
+    background-color: #f2f2f2;
+}
+.button {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    padding: 9px 40px;
+    border-radius: 4px;
+    font-size: 16px;
+}
+.center {
+    padding: 70px 0;
+    text-align: center;
+}
+.input_for_name {
+    width: 20%;
+    height: 30px;
+    font-size: 16px;
+    padding: 0px 5px;
+}
